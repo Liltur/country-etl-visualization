@@ -1,6 +1,6 @@
 # REST Countries API ETL Project
 
-This project implements a basic ETL (Extract, Transform, Load) pipeline that retrieves data from the REST Countries API, processes it, and loads it into a local SQLite database. This allows for easier analysis and querying of global country data.
+This project implements a basic ETL (Extract, Transform, Load) pipeline that retrieves data from the REST Countries API, processes it, and loads it into a local SQL Sever database. This allows for easier analysis and querying of global country data.
 
 ## Project Overview
 
