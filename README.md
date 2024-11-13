@@ -5,7 +5,7 @@ This project implements a basic ETL (Extract, Transform, Load) pipeline that ret
 ## Project Overview
 
 - **API Used**: [REST Countries API](https://restcountries.com/v3.1/all)
-- **Objective**: Extract relevant country information, transform it for consistency, and store it in a local SQLite database.
+- **Objective**: Extract relevant country information, transform it for consistency, and store it in a local SQL Sever database.
 - **Technologies**: Python, SQLite, pandas, requests
 
 ## Results
