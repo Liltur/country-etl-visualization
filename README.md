@@ -6,7 +6,7 @@ This project implements a basic ETL (Extract, Transform, Load) pipeline that ret
 
 - **API Used**: [REST Countries API](https://restcountries.com/v3.1/all)
 - **Objective**: Extract relevant country information, transform it for consistency, and store it in a local SQL Sever database.
-- **Technologies**: Python, SQLite, pandas, requests
+- **Technologies**: Python, SQL Sever, Pandas, Requests
 
 ## Results
 ![Area vs Population](./images/area_population.png)
@@ -52,8 +52,8 @@ pip install requests pandas
 ### Step 2: Transform Data
 - Select required fields and structure them in a pandas DataFrame.
 
-### Step 3: Load Data into SQLite Database
-- Use sqlite3 to create the database and load data.
+### Step 3: Load Data into SQL Sever Database
+- Use SQL Sever to create the database and load data.
 
 ### Step 4: Query and Analyze Data
 - You can now query the database for analysis. Here’s an example query to retrieve countries with populations exceeding 100 million.
